@@ -1,2 +1,3 @@
 # uthraamurali.github.io
-Open-access preprints and research manuscripts by Uthraa Murali, with persistent DOIs hosted on Zenodo.
+This repository hosts static HTML pages for open-access preprints by Uthraa Murali.
+The authoritative archival versions of all papers, along with persistent DOIs, are hosted on Zenodo.
